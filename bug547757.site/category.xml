@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/bug547757.bundle1.feature_7.9.83926.qualifier.jar" id="bug547757.bundle1.feature" version="7.9.83926.qualifier">
+      <category name="Lib"/>
+   </feature>
+   <category-def name="Lib" label="Lib"/>
+</site>

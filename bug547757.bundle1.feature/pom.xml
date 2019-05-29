@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>bug547757.bundle1.feature</artifactId>
+	<packaging>eclipse-feature</packaging>
+	<version>7.9.83926-SNAPSHOT</version>
+	<parent>
+		<groupId>bug547757</groupId>
+		<artifactId>bug547757.parent</artifactId>
+		<version>0.1.0-SNAPSHOT</version>
+		<relativePath>../bug547757.parent</relativePath>
+	</parent>
+</project>
